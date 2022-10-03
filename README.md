@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://github.com/julliepx">
   <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=julliepx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julliepx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +18,7 @@
   <img align="center" alt="Jullie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Jullie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" alt="Jullie-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="right" alt="Jullie-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/770108856143314945/1026302873694380052/download20221000222105.png?width=676&height=676">
+  <img align="right" alt="Jullie-Pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Iv4oIbNoxdm2PssXQt/giphy.gif?width=676&height=676">
 </div>
 
 ##
