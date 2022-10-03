@@ -6,7 +6,7 @@
 - 😄 Pronomes: ela/dela
 
 <div align="center">
-  <a href="https://github.com/julliepx">
+  <a href="https://github.com/julliepx"></a>
   <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=julliepx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -18,7 +18,7 @@
   <img align="center" alt="Jullie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Jullie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Jullie-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Jullie-Pic" src="https://cdn.discordapp.com/attachments/770108856143314945/1026366587814563910/jugif.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/770108856143314945/1026366587814563910/jugif.gif">
 </div>
 
 ##
