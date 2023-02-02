@@ -1,4 +1,8 @@
-### Oiii! Eu sou a Jullie
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Jullie+Paixão;Tenho+21+anos...;Muito+prazer!&center=true&size=25">
+  </a>
+</h1>
 
 - 🔭 Hoje sou Estagiária na DB Server.
 - 🌱 Estudando Desenvolvimento Web: Java + Spring Framework no back-end & Typescript + Angular no front-end.
