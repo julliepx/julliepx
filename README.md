@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-- 🔭 Hoje sou Estagiária na DB Server.
-- 🌱 Estudando Desenvolvimento Web: Java + Spring Framework no back-end & Typescript + Angular no front-end.
+- 🔭 Desenvolvedora Fullstack com Java, Angular & React.
 - 📫 [Entre em contato comigo pelo LinkedIn através deste link.](https://www.linkedin.com/in/jlpaixaof/)
 - 😄 Pronomes: ela/dela
 
