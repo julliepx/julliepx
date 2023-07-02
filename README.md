@@ -22,7 +22,7 @@
   <img align="center" alt="Jullie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Jullie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Jullie-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/770108856143314945/1026366587814563910/jugif.gif">
+  <img align="right" alt="Jullie-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/770108856143314945/1026366587814563910/jugif.gif">
 </div>
 
 ##
