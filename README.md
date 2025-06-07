@@ -17,9 +17,9 @@
 
 ##
 
-- 🔭 Software Engineer expert in React + Next.js, Angular and Java.
-- 📫 [Contact me in anyway through my portfolio.](https://jullie.dev/)
-- 😄 Pronouns: she/her
+- Software Engineer expert in React + Next.js, Angular and Java.
+- [Contact me in anyway through my portfolio.](https://jullie.dev/)
+- Pronouns: she/her
 
 ##
 
