@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://www.linkedin.com/in/eujullie/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;I'm+Jullie+Paixão;I'm+24...;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I'm+Jullie+Paixão;I'm+24...;Nice+to+meet+you!&center=true&size=25">
     </a>
 </h1>
 
