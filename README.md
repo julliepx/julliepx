@@ -1,12 +1,13 @@
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/jlpaixaof/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Jullie+Paixão;Tenho+22+anos...;Muito+prazer!&center=true&size=25">
+    <a href="https://www.linkedin.com/in/eujullie/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;I'm+Jullie+Paixão;I'm+24...;Nice+to+meet+you!&center=true&size=25">
     </a>
 </h1>
 
-- 🔭 Desenvolvedora Fullstack com Java, Angular & React.
-- 📫 [Entre em contato comigo pelo LinkedIn através deste link.](https://www.linkedin.com/in/jlpaixaof/)
-- 😄 Pronomes: ela/dela
+- 🔭 Software Engineer expert in React + Next.js, Angular and Java.
+- 📫 [Contact me in LinkedIn through this link.](https://www.linkedin.com/in/eujullie/)
+- 📋 [Don't forget to look into my Portfolio.](https://jullie.dev/)
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/julliepx"></a>
@@ -28,7 +29,7 @@
 ##
 
 <div>
-  <a href="https://instagram.com/julliepx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jlpaixaof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jlpaixaof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/euujullie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:euujullie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eujulie/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
